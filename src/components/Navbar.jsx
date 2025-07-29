@@ -6,7 +6,7 @@ export default class Navbar extends React.Component {
     return (
       <nav className="navbar">
         <div className="navbar-left">
-          <img src="./src/assets/spotify logo.png" alt="Spotify Logo" className="logo" />
+          <img src="./src/assets/spotify-logo.png" alt="Spotify Logo" className="logo" />
           <input
             type="text"
             placeholder="What do you want to play?"
