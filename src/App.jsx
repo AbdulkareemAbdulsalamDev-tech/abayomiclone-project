@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Dashboard from "./components/Dashboard"
+import DashboardPage from "./components/DashboardPage";
 
 export default class App extends React.Component {
   render() {
     return (
       <div>
         <Navbar />
-        <Dashboard />
+        <DashboardPage />
       
       </div>
     );

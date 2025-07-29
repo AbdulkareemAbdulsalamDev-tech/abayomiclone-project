@@ -4,7 +4,7 @@ import Hero from "./Hero";
 import PopularArtists from "./PopularArtists"
 import Footer from "./Footer";
 
-export default class Dashboard extends React.Component {
+export default class DashboardPage extends React.Component {
   render() {
     return (
       <div className="dashboard">
