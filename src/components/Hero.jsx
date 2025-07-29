@@ -12,7 +12,7 @@ class SongCard extends React.Component {
   }
 }
 
-export default class TrendingSongs extends React.Component {
+export default class Hero extends React.Component {
   render() {
     const songs = [
       {

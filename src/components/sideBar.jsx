@@ -1,6 +1,6 @@
 import React from "react";
 
-export default class Sidebar extends React.Component {
+export default class SideBar extends React.Component {
   render() {
     return (
       <aside className="sidebar">
