@@ -1,7 +1,7 @@
 import React from "react";
 import SideBar from "./SideBar";
 import Hero from "./Hero";
-import PopularArtists from "./PopularArtists";
+import PopularArtists from "./PopularArtists"
 import Footer from "./Footer";
 
 export default class Dashboard extends React.Component {
